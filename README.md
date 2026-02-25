@@ -64,3 +64,13 @@ Kiang, J. (2024, May 24). Chris Hemsworth says ‘Hot Ones’ was the ‘most in
 
 
 Propper, D. (2026, February 24). Meet the rumored new Jalisco cartel boss — a Californian from Orange County. New York Post. https://nypost.com/2026/02/24/us-news/meet-the-rumored-new-jalisco-cartel-boss-a-californian-from-orange-county/
+
+
+## Reflection: Why Governance Matters
+Technical skills are the tools, but governance is the blueprint. You can build the strongest firewall in the world, but if there’s no policy (Governance) telling employees not to share passwords, the tech fails. In 2026, governance ensures that security isn't just a "IT thing" but a legal requirement that keeps the company from getting sued or shut down.
+
+## Domain Alignment: GRC
+The GRC (Governance, Risk, and Compliance) domain aligns most with today’s material. While Cloud and Network teams use the CIA Triad and AAA, the GRC team writes the rules that require them. They ensure the organization stays within the lines of the law and industry standards.
+
+## APA Citation
+National Institute of Standards and Technology. (2024). The NIST Cybersecurity Framework (CSF) 2.0. https://doi.org/10.6028/NIST.CSWP.29
