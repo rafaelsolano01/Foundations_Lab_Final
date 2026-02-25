@@ -29,3 +29,11 @@ In alignment with the professional competency of technical specificity, the foll
 *   **AI Integration:** Google Gemini / Cloud Code (AI Pair Programmer) [17]
 *   **Local Version Control:** Git [14, 18, 19]
 *   **Remote Portfolio Hub:** GitHub [18, 20, 21]
+
+
+## APA References
+
+Kiang, J. (2024, May 24). Chris Hemsworth says ‘Hot Ones’ was the ‘most intense’ interview of his life: ‘I thought I was going to have a heart attack’. Yahoo Entertainment. https://www.yahoo.com/entertainment/tv/articles/chris-hemsworth-says-hot-ones-004315892.html
+
+
+Propper, D. (2026, February 24). Meet the rumored new Jalisco cartel boss — a Californian from Orange County. New York Post. https://nypost.com/2026/02/24/us-news/meet-the-rumored-new-jalisco-cartel-boss-a-californian-from-orange-county/
