@@ -30,6 +30,33 @@ In alignment with the professional competency of technical specificity, the foll
 *   **Local Version Control:** Git [14, 18, 19]
 *   **Remote Portfolio Hub:** GitHub [18, 20, 21]
 
+## Security Foundations: Governance & Frameworks
+
+### The CIA Triad: The "Why" of Security
+Think of this as the three-legged stool of data. If one leg breaks, the whole system collapses.
+
+Confidentiality: Keeping secrets. Only authorized people see the data. (Example: Using encryption so a hacker can’t read your emails).
+
+Integrity: Keeping data accurate. Ensuring the info hasn't been tampered with or corrupted. (Example: A digital signature that proves a contract wasn't changed after you signed it).
+
+Availability: Keeping the lights on. Ensuring systems work when users need them. (Example: Preventing a DDoS attack from taking down a hospital's patient records).
+
+## The AAA Framework: The "How" of Access
+This is the process of managing a user from the moment they "knock" on the digital door to the moment they leave.
+
+Authentication (Are you who you say you are?): This is your login—ideally using phishing-resistant MFA like a FIDO2 key.
+
+Authorization (What are you allowed to do?): Once inside, this limits your reach. You shouldn't have "Admin" rights if you only need to read a spreadsheet (Principle of Least Privilege).
+
+Accounting (What did you do?): This is the paper trail. It creates Non-repudiation, meaning a user cannot deny they performed an action because the immutable logs prove it was them.
+
+## How Governance Shapes Your Career
+In 2026, cybersecurity is no longer just a "tech" problem; it is a business risk managed by the Govern function of NIST CSF 2.0. Governance dictates the rules of engagement for every role. If you are a SOC Analyst, governance defines your incident response timelines; if you are a Cloud Architect, it dictates the compliance standards (like HIPAA or GDPR) you must build into your infrastructure. Without governance, security is just a series of random "fixes" without a blueprint, leading to Drift—where your security posture gets weaker over time because there’s no policy holding it in place.
+
+## APA Citation
+
+Center for Internet Security. (2024). CIS Critical Security Controls version 8.1. https://www.cisecurity.org/controls/v8-1
+
 
 ## APA References
 
