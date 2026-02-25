@@ -1,4 +1,4 @@
-# Foundations_Lab_Final THE PROFESSIONAL CYBERSECURITY  WORKBENCH 
+# Foundations_Lab_Final The Professional Cybersecurity  Workbench
 
 **Author:** Rafael Solano  
 **Institutional Affiliation:** The Knowledge House  
