@@ -74,3 +74,26 @@ The GRC (Governance, Risk, and Compliance) domain aligns most with today’s mat
 
 ## APA Citation
 National Institute of Standards and Technology. (2024). The NIST Cybersecurity Framework (CSF) 2.0. https://doi.org/10.6028/NIST.CSWP.29
+
+## Lab Infrastructure & Virtualization Setup 
+
+## Definitions
+
+## Hypervisor: 
+The software layer (like VirtualBox or UTM) that creates and runs virtual machines by isolating the hardware from the operating system.
+
+## Virtual Machine (VM): 
+A digital emulation of a physical computer that runs its own operating system and applications independently.
+
+## Isolation in Cybersecurity: 
+The practice of "sandboxing" environments so that a compromise or crash in one system cannot spread to the host machine or the wider network.
+
+## The CIA Triad & Virtualization
+Virtualization bolsters Confidentiality by ensuring data in one VM is inaccessible to others. It maintains Integrity through "snapshots," allowing us to revert to a clean state if files are corrupted. Finally, it ensures Availability by allowing us to quickly deploy redundant systems or recover from hardware failures without downtime.
+
+## Reference
+Cisco Networking Academy. (2024). Introduction to Cybersecurity: Virtualization and the Cloud. ---
+
+## Reflection
+Isolation is the cornerstone of secure testing; when analyzing malicious software, a virtualized environment prevents the malware from "escaping" and infecting the host production system. Virtualization supports secure experimentation by providing a controlled, disposable area where we can fail safely and reset instantly. Today’s material aligns most closely with the Cloud and Infrastructure Security domain, as we are managing the underlying virtualization layers and server environments that power modern enterprise networks.
+
