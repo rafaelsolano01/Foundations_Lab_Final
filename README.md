@@ -9,11 +9,11 @@
 
 ## Introduction
 
-Hello World. This repository serves as my professional technical portfolio for the 24-week Cybersecurity Foundations Intensive [4, 5]. Establishing this workbench and pushing this initial commit formally verifies my Git authentication mechanics and confirms my digital presence within the 2026 cybersecurity ecosystem [1, 6]. This repository will serve as a centralized hub for my version-controlled documentation, technical labs, and professional growth as I transition from a "student" consumer of information into a "professional practitioner" [7-10].
+Hello World. This repository serves as my professional technical portfolio for the 24-week Cybersecurity Foundations Intensive. Establishing this workbench and pushing this initial commit formally verifies my Git authentication mechanics and confirms my digital presence within the 2026 cybersecurity ecosystem. This repository will serve as a centralized hub for my version-controlled documentation, technical labs, and professional growth as I transition from a "student" consumer of information into a "professional practitioner"
 
 ## Workbench System Specifications
 
-In alignment with the professional competency of technical specificity, the following hardware configuration is utilized for this workbench [1-3]:
+In alignment with the professional competency of technical specificity, the following hardware configuration is utilized for this workbench
 
 *   **Model:** MacBook Pro (15-inch, 2016)
 *   **Operating System:** macOS Monterey (Version 12.7.6)
@@ -25,30 +25,36 @@ In alignment with the professional competency of technical specificity, the foll
 
 ## Tool Ecosystem
 
-*   **IDE:** Visual Studio Code (VS Code) [14-16]
-*   **AI Integration:** Google Gemini / Cloud Code (AI Pair Programmer) [17]
-*   **Local Version Control:** Git [14, 18, 19]
-*   **Remote Portfolio Hub:** GitHub [18, 20, 21]
+*   **IDE:** Visual Studio Code (VS Code)
+*   **AI Integration:** Google Gemini / Cloud Code (AI Pair Programmer) 
+*   **Local Version Control:** Git 
+*   **Remote Portfolio Hub:** GitHub 
 
 ## Security Foundations: Governance & Frameworks
 
 ### The CIA Triad: The "Why" of Security
 Think of this as the three-legged stool of data. If one leg breaks, the whole system collapses.
 
-Confidentiality: Keeping secrets. Only authorized people see the data. (Example: Using encryption so a hacker can’t read your emails).
+## Confidentiality:
+ Keeping secrets. Only authorized people see the data. (Example: Using encryption so a hacker can’t read your emails).
 
-Integrity: Keeping data accurate. Ensuring the info hasn't been tampered with or corrupted. (Example: A digital signature that proves a contract wasn't changed after you signed it).
+## Integrity: 
+Keeping data accurate. Ensuring the info hasn't been tampered with or corrupted. (Example: A digital signature that proves a contract wasn't changed after you signed it).
 
-Availability: Keeping the lights on. Ensuring systems work when users need them. (Example: Preventing a DDoS attack from taking down a hospital's patient records).
+## Availability:
+ Keeping the lights on. Ensuring systems work when users need them. (Example: Preventing a DDoS attack from taking down a hospital's patient records).
 
 ## The AAA Framework: The "How" of Access
 This is the process of managing a user from the moment they "knock" on the digital door to the moment they leave.
 
-Authentication (Are you who you say you are?): This is your login—ideally using phishing-resistant MFA like a FIDO2 key.
+## Authentication 
+(Are you who you say you are?): This is your login—ideally using phishing-resistant MFA like a FIDO2 key.
 
-Authorization (What are you allowed to do?): Once inside, this limits your reach. You shouldn't have "Admin" rights if you only need to read a spreadsheet (Principle of Least Privilege).
+## Authorization 
+(What are you allowed to do?): Once inside, this limits your reach. You shouldn't have "Admin" rights if you only need to read a spreadsheet (Principle of Least Privilege).
 
-Accounting (What did you do?): This is the paper trail. It creates Non-repudiation, meaning a user cannot deny they performed an action because the immutable logs prove it was them.
+## Accounting 
+(What did you do?): This is the paper trail. It creates Non-repudiation, meaning a user cannot deny they performed an action because the immutable logs prove it was them.
 
 ## How Governance Shapes Your Career
 In 2026, cybersecurity is no longer just a "tech" problem; it is a business risk managed by the Govern function of NIST CSF 2.0. Governance dictates the rules of engagement for every role. If you are a SOC Analyst, governance defines your incident response timelines; if you are a Cloud Architect, it dictates the compliance standards (like HIPAA or GDPR) you must build into your infrastructure. Without governance, security is just a series of random "fixes" without a blueprint, leading to Drift—where your security posture gets weaker over time because there’s no policy holding it in place.
@@ -92,7 +98,7 @@ The practice of "sandboxing" environments so that a compromise or crash in one s
 Virtualization bolsters Confidentiality by ensuring data in one VM is inaccessible to others. It maintains Integrity through "snapshots," allowing us to revert to a clean state if files are corrupted. Finally, it ensures Availability by allowing us to quickly deploy redundant systems or recover from hardware failures without downtime.
 
 ## Reference
-Cisco Networking Academy. (2024). Introduction to Cybersecurity: Virtualization and the Cloud. ---
+Cisco Networking Academy. (2024). Introduction to Cybersecurity: Virtualization and the Cloud.
 
 ## Reflection
 Isolation is the cornerstone of secure testing; when analyzing malicious software, a virtualized environment prevents the malware from "escaping" and infecting the host production system. Virtualization supports secure experimentation by providing a controlled, disposable area where we can fail safely and reset instantly. Today’s material aligns most closely with the Cloud and Infrastructure Security domain, as we are managing the underlying virtualization layers and server environments that power modern enterprise networks.
