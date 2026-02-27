@@ -96,4 +96,3 @@ Cisco Networking Academy. (2024). Introduction to Cybersecurity: Virtualization 
 
 ## Reflection
 Isolation is the cornerstone of secure testing; when analyzing malicious software, a virtualized environment prevents the malware from "escaping" and infecting the host production system. Virtualization supports secure experimentation by providing a controlled, disposable area where we can fail safely and reset instantly. Today’s material aligns most closely with the Cloud and Infrastructure Security domain, as we are managing the underlying virtualization layers and server environments that power modern enterprise networks.
-
