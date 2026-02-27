@@ -1,4 +1,3 @@
-Bash 
 #!/bin/bash 
 LOG_FILE="setup_verify.txt" 
 echo "--- FELLOWSHIP LAB VERIFICATION REPORT ---" > "$LOG_FILE" echo "Timestamp: $(date)" >> "$LOG_FILE" 
@@ -56,4 +55,4 @@ echo "------------------------------------------" >> "$LOG_FILE"
 echo "AUDIT COMPLETE. STATUS LOGGED." >> "$LOG_FILE" 
 echo "------------------------------------------" >> "$LOG_FILE" 
 echo "" 
-echo "[SUCCESS] Action required: run 'cat setup_verify.txt' to view."
+echo "[SUCCESS] Action required: run 'cat setup_verify.txt' to view." 
