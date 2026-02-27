@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Hello World. This repository serves as my professional technical portfolio for the 24-week Cybersecurity Foundations Intensive. Establishing this workbench and pushing this initial commit formally verifies my Git authentication mechanics and confirms my digital presence within the 2026 cybersecurity ecosystem. This repository will serve as a centralized hub for my version-controlled documentation, technical labs, and professional growth as I transition from a "student" consumer of information into a "professional practitioner"
+Hello World.  This repository serves as my professional technical portfolio for the 24-week Cybersecurity Foundations Intensive. Establishing this workbench and pushing this initial commit formally verifies my Git authentication mechanics and confirms my digital presence within the 2026 cybersecurity ecosystem. This repository will serve as a centralized hub for my version-controlled documentation, technical labs, and professional growth as I transition from a "student" consumer of information into a "professional practitioner"
 
 ## Workbench System Specifications
 
